@@ -1,0 +1,6 @@
+{
+  "name": "Landing Page for CS Teacher",
+  "description": "An interactive, modern, technology-inspired landing page introducing a Computer Science teacher during the first lesson.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
